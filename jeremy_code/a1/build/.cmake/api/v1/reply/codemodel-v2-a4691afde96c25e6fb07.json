@@ -1,0 +1,104 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.13"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				},
+				{
+					"build" : "test",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.13"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "test",
+					"targetIndexes" : 
+					[
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "quiz2_a1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "analysis::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-analysis-Debug-3561eb3193982a055ae4.json",
+					"name" : "analysis",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "displayrace::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-displayrace-Debug-33a46d81b9266256fa42.json",
+					"name" : "displayrace",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "racing_ex::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-racing_ex-Debug-d8b7643edb0091dd868a.json",
+					"name" : "racing_ex",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "utest::@36f028580bb02cc8272a",
+					"jsonFile" : "target-utest-Debug-10450d86e87299ddcec9.json",
+					"name" : "utest",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/jeremyiskandar/git/pfms-2023a-JeremyIskandar/quizzes/quiz2/a1/build",
+		"source" : "/home/jeremyiskandar/git/pfms-2023a-JeremyIskandar/quizzes/quiz2/a1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

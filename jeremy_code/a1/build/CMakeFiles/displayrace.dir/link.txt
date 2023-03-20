@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdisplayrace.a  CMakeFiles/displayrace.dir/display_race.cpp.o
+/usr/bin/ranlib libdisplayrace.a

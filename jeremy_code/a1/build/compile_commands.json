@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/jeremyiskandar/git/pfms-2023a-JeremyIskandar/quizzes/quiz2/a1/build",
+  "command": "/usr/bin/c++   -I/home/jeremyiskandar/git/pfms-2023a-JeremyIskandar/quizzes/quiz2/a1/dep/include -isystem /usr/include/opencv4   -std=c++11 -g   -o CMakeFiles/racing_ex.dir/main.cpp.o -c /home/jeremyiskandar/git/pfms-2023a-JeremyIskandar/quizzes/quiz2/a1/main.cpp",
+  "file": "/home/jeremyiskandar/git/pfms-2023a-JeremyIskandar/quizzes/quiz2/a1/main.cpp"
+},
+{
+  "directory": "/home/jeremyiskandar/git/pfms-2023a-JeremyIskandar/quizzes/quiz2/a1/build",
+  "command": "/usr/bin/c++   -I/home/jeremyiskandar/git/pfms-2023a-JeremyIskandar/quizzes/quiz2/a1/dep/include -isystem /usr/include/opencv4   -std=c++11 -g   -o CMakeFiles/analysis.dir/analysis.cpp.o -c /home/jeremyiskandar/git/pfms-2023a-JeremyIskandar/quizzes/quiz2/a1/analysis.cpp",
+  "file": "/home/jeremyiskandar/git/pfms-2023a-JeremyIskandar/quizzes/quiz2/a1/analysis.cpp"
+},
+{
+  "directory": "/home/jeremyiskandar/git/pfms-2023a-JeremyIskandar/quizzes/quiz2/a1/build",
+  "command": "/usr/bin/c++   -I/home/jeremyiskandar/git/pfms-2023a-JeremyIskandar/quizzes/quiz2/a1/dep/include -isystem /usr/include/opencv4   -std=c++11 -g   -o CMakeFiles/displayrace.dir/display_race.cpp.o -c /home/jeremyiskandar/git/pfms-2023a-JeremyIskandar/quizzes/quiz2/a1/display_race.cpp",
+  "file": "/home/jeremyiskandar/git/pfms-2023a-JeremyIskandar/quizzes/quiz2/a1/display_race.cpp"
+},
+{
+  "directory": "/home/jeremyiskandar/git/pfms-2023a-JeremyIskandar/quizzes/quiz2/a1/build/test",
+  "command": "/usr/bin/c++   -I/home/jeremyiskandar/git/pfms-2023a-JeremyIskandar/quizzes/quiz2/a1/dep/include -isystem /usr/include/opencv4 -isystem /usr/src/gtest/include   -std=c++11 -g   -o CMakeFiles/utest.dir/utest.cpp.o -c /home/jeremyiskandar/git/pfms-2023a-JeremyIskandar/quizzes/quiz2/a1/test/utest.cpp",
+  "file": "/home/jeremyiskandar/git/pfms-2023a-JeremyIskandar/quizzes/quiz2/a1/test/utest.cpp"
+}
+]
